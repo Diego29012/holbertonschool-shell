@@ -1,1 +1,2 @@
-# holbertonschool-shell
+Basics projects of shell
+
