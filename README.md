@@ -9,9 +9,9 @@
   ## Index
   
   * <a href="#Basics">Basics</a>
-  * [Permissions] (#Permissions)
-  * [io_redirections_and_filters] (#io_redirections_and_filters)
-  * [init_files_variables_and_expansions] (#init_files_variables_and_expansions)
+  * <a href="#Permissions">Permissions</a>
+  * <a href="#io_redirections_and_filters">io_redirections_and_filters</a>
+  * <a href="#init_files_variables_and_expansions">init_files_variables_and_expansions</a>
   
   </br>
   </div>
