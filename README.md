@@ -6,8 +6,7 @@
   
   <br>
   
-  ## Index
-  
+ 
   * <a href="#Basics">Basics</a>
   * <a href="#Permissions">Permissions</a>
   * <a href="#io_redirections_and_filters">io_redirections_and_filters</a>
